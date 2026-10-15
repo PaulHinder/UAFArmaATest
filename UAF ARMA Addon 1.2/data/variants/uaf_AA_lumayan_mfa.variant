@@ -1,0 +1,41 @@
+{
+  "variantId": "uaf_AA_lumayan_mfa",
+  "hullId": "uaf_AA_lumayan",
+  "displayName": "Multirole Advanced Attacker Wing",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "uaf_claris_cn",
+        "WS0002": "uaf_cantata_cn"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "uaf_edge_type_i",
+        "WS0004": "uaf_merupaka_epd"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {}
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

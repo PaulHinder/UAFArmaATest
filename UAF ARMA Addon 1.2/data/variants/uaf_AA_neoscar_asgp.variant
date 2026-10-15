@@ -1,0 +1,42 @@
+{
+  "variantId": "uaf_AA_neoscar_asgp",
+  "hullId": "uaf_AA_neoscar",
+  "displayName": "Gunship Wing",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0004": "uaf_triyia_pdx"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "uaf_hikone_quad"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0005": "uaf_shimata_155_cn",
+        "WS0006": "uaf_shimata_155_cn"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

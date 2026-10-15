@@ -1,0 +1,32 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmall":{
+		"uaf_AA_aria_fighter":1,
+		"uaf_AA_exoscar_bomber":1,
+		"uaf_AA_fisoyuz_fighter":1,
+		"uaf_AA_forlorn_hft":1,
+		"uaf_AA_hibiscus_sbmb":1,
+		"uaf_AA_hyacinth_hbmb":1,
+		"uaf_AA_hyperaria_custom_y":1,
+		"uaf_AA_lumayan_mfa":1,
+		"uaf_AA_lynx_ahft":1,
+		"uaf_AA_menascar_htpb":1,
+		"uaf_AA_minersky_interceptor":1,
+		"uaf_AA_minime_drone":1,
+		"uaf_AA_mitsurei_fighter":1,
+		"uaf_AA_naga_mfa":1,
+		"uaf_AA_nekoyan_sft":1,
+		"uaf_AA_neoscar_asgp":1,
+		"uaf_AA_noversky_atk":1,
+		"uaf_AA_pengawas_gsp":1,
+		"uaf_AA_puterakamu_sprhd":1,
+		"uaf_AA_puterisaya_agshp":1,
+		"uaf_AA_rafflesya_shvb":1,
+		"uaf_AA_revere_hof":1,
+		"uaf_AA_sakurai_bomber":1,
+		"uaf_AA_superaria_aft":1,
+		"uaf_AA_surreal_hhof":1,
+		"uaf_AA_taufan_nhft":1,
+	},
+}

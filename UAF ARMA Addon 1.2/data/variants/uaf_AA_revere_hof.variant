@@ -1,0 +1,30 @@
+{
+  "variantId": "uaf_AA_revere_hof",
+  "hullId": "uaf_AA_revere",
+  "displayName": "Interceptor Wing",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "uaf_chorus_s_amm",
+        "WS0002": "uaf_chorus_s_amm"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "uaf_cantata_cn"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

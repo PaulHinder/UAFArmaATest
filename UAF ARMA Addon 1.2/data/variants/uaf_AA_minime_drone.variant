@@ -1,0 +1,22 @@
+{
+  "variantId": "uaf_AA_minime_drone",
+  "hullId": "uaf_AA_minime",
+  "displayName": "Defense Drone",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "uaf_cantata_cn"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

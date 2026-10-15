@@ -1,0 +1,38 @@
+{
+	"hullFrequency":{
+		"tags":{
+			"uaf_fighter_bp":10,
+		},
+
+	},
+	"knownShips":{
+		"hulls":[	
+			"uaf_AA_aria",
+			"uaf_AA_superaria",
+			"uaf_AA_hyperaria",
+			"uaf_AA_naga",
+			"uaf_AA_lumayan",
+			"uaf_AA_exoscar",
+			"uaf_AA_fisoyuz",
+			"uaf_AA_minersky",
+			"uaf_AA_mitsurei",
+			"uaf_AA_sakurai",
+			"uaf_AA_hibiscus",
+			"uaf_AA_lynx",
+			"uaf_AA_forlorn",
+			"uaf_AA_noversky",
+			"uaf_AA_hyacinth",
+			"uaf_AA_nekoyan",
+			"uaf_AA_menascar",
+			"uaf_AA_pengawas",
+			"uaf_AA_neoscar",
+			"uaf_AA_puterisaya",
+			"uaf_AA_puterakamu",
+			"uaf_AA_minime",
+			"uaf_AA_revere",
+			"uaf_AA_surreal",
+			"uaf_AA_taufan",
+			"uaf_AA_rafflesya",
+			],
+	},
+},	

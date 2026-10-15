@@ -1,0 +1,172 @@
+{
+  "hullName": "UAF_AA_Hyacinth",
+  "hullId": "uaf_AA_hyacinth",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/hyacinth_hbmb.png",
+  "style": "UAF_FIGHTER_M",
+  "height": 95,
+  "width": 120,
+  "center": [60, 46],
+  "collisionRadius": 65.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 65.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "strikeCraft",
+    "UAFstrikeCraft",
+    "armaa_wingCommander",
+	"magazines"
+	],
+  "builtInWings": [
+    "uaf_wing_hyacinth"
+  ],
+  "builtInWeapons": {
+        "BM0001": "uaf_fw_usb_class_iii",
+        "BM0002": "uaf_fw_usb_class_ii",
+        "BM0003": "uaf_fw_usb_class_ii",
+        "BM0004": "uaf_fw_usb_class_i",
+        "BM0005": "uaf_fw_usb_class_i"
+
+  },
+  "weaponSlots": [
+
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 302,
+      "angle": 0,
+      "locations": [22, -0]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 92,
+      "angle": 180,
+      "locations": [-22, -0]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 180,
+      "locations": [-39, -0]
+    },
+    {
+      "id": "BM0003",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": 0,
+      "locations": [38, -14]
+    },
+    {
+      "id": "BM0002",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": -0,
+      "locations": [38, 14]
+    },
+    {
+      "id": "BM0005",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": 0,
+      "locations": [25, -28]
+    },
+    {
+      "id": "BM0004",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": 0,
+      "locations": [25, 28]
+    },
+    {
+      "id": "BM0001",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": 0,
+      "locations": [48, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [8.5, 23.5],
+      "length": 20.5,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "MELODY_ENGINE_H"
+    },
+    {
+      "location": [8.5, -23.5],
+      "length": 20.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "MELODY_ENGINE_H"
+    },
+    {
+      "location": [10, -19],
+      "length": 20.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "MELODY_ENGINE_H"
+    },
+    {
+      "location": [10, 19],
+      "length": 20.5,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "MELODY_ENGINE_H"
+    },
+    {
+      "location": [12, -14.5],
+      "length": 20.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "MELODY_ENGINE_H"
+    },
+    {
+      "location": [12, 14.5],
+      "length": 20.5,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "MELODY_ENGINE_H"
+    }
+  ],
+  "bounds": [
+    -43.5, 4.5,
+    -27.5, 10,
+    -32, 16,
+    -5.5, 50.5,
+    -6.5, 58.5,
+    1.5, 58,
+    48, 1.5,
+    48, -1.5,
+    1.5, -58,
+    -6.5, -58.5,
+    -5.5, -50.5,
+    -32, -16,
+    -27.5, -10,
+    -43.5, -4.5
+  ]
+}

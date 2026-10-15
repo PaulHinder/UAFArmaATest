@@ -1,0 +1,38 @@
+{
+  "variantId": "uaf_AA_superaria_aft",
+  "hullId": "uaf_AA_superaria",
+  "displayName": "Superiority Fighter",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "uaf_claris_cn",
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0004": "uaf_clemente_base",
+        "WS0005": "uaf_clemente_base"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0002": "uaf_chorus_s_amm",
+        "WS0003": "uaf_chorus_s_amm"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
