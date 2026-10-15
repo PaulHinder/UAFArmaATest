@@ -1,0 +1,23 @@
+{
+  "variantId": "uaf_m_exoscar_torpedo",
+  "hullId": "uaf_m_exoscar",
+  "displayName": "Torpedo Bomber",
+  "goalVariant": false,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "uaf_exoscar_torpedo_base",
+        "WS0002": "uaf_exoscar_torpedo_base"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

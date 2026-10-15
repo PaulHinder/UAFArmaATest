@@ -1,0 +1,23 @@
+{
+  "variantId": "uaf_m_aria_fighter",
+  "hullId": "uaf_m_aria",
+  "displayName": "Strike Wing",
+  "goalVariant": true,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "uaf_cantata_cn",
+        "WS0004": "uaf_claris_cn"
+      }
+    },
+  ],
+  "modules": [],
+  "wings": []
+}

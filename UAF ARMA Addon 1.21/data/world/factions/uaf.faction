@@ -1,0 +1,14 @@
+{
+	"hullFrequency":{
+		"tags":{
+			"uaf_fighter_bp":10,
+		},
+
+
+	},
+	"knownShips":{
+		"hulls":[	
+			"uaf_m_aria"
+			],
+	},
+},	

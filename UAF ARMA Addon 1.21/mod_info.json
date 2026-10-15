@@ -1,0 +1,27 @@
+{
+	"id":"uaf_arma",
+	"name":"UAF Arma Addon",
+	"author":"SurelAce",
+	"version":"1.2",
+	"description":"UAF ARMA Addon",
+	"gameVersion":"0.98a-RC8",
+	 "dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+        },
+        {
+            "id": "MagicLib",
+            "name": "MagicLib",
+        },
+		{
+            "id": "armaa",
+            "name": "Arma Armatura",
+        },
+		{
+            "id": "uaf",
+            "name": "United Aurora Federation",
+		},
+    ],
+	
+}
